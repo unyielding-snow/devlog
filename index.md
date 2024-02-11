@@ -2,14 +2,11 @@
 layout: content
 ---
 
-# Unyielding Snow 
-
 [https://github.com/unyielding-snow](https://github.com/unyielding-snow)
 
 ### About
 
-Hi! This is Justin Lo's Dev Lop! For journaling purposes. 
-
+Hi! This is Justin Lo's Dev Lop! For journaling purposes.\   
 
 #### WolverineSoft W24 Dev Log
 
