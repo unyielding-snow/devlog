@@ -1,8 +1,8 @@
 # Site settings
 title: "gjuniioor"
 bye_message: "Thx!"
-baseurl: "/clyell/"
-url: "https://gjuniioor.github.io"
+baseurl: "/devlog/"
+url: "https://unyielding-snow.github.io"
 disqus: gjuniioor
 
 # Header settings
