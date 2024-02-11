@@ -10,7 +10,8 @@ layout: content
 
 Hi! This is Justin Lo's Dev Lop! For journaling purposes. 
 
-#### WolverineSoft Dev Log
+
+#### WolverineSoft W24 Dev Log
 
 <ul class="posts">
     {% for post in site.categories.blog %}
